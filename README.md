@@ -21,3 +21,6 @@ Una vez compilado, arranca el MiniShell corriendo el emulador con este comando:
 * `echo [texto]`: Repite en pantalla lo que escribas a la par.
 * `ls`: Crea un proceso hijo y ejecuta el comando real del sistema para listar archivos.
 * `exit`: Cierra el programa de forma limpia.
+
+## Video Demostrativo
+Enlace: [https://drive.google.com/file/d/1Wwiy91Nkuaqp3qJx-OtHxtb96RmfMC9_/view?usp=sharing]
